@@ -88,7 +88,7 @@
             <h2>Conheça nosso espaço</h2>
 
             <video controls width="300">
-                <source src="../video/cafeteria.mp4" type="video/mp4">
+                <source src="../video/cafeteriaarcanjo.mp4" type="video/mp4">
                 Seu navegador não suporta vídeo.
             </video>
         </section>
@@ -105,7 +105,7 @@
     </main>
 
     <footer>
-        <p>Café da Praça - Projeto de HTML.</p>
+        <p>Café Arcanjo - Projeto de HTML.</p>
     </footer>
 
 
